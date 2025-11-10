@@ -23,9 +23,21 @@
     //         return num1 + num2
     //     }
 
-        console.log(addTwo (5,4))
+    //     console.log(addTwo (5,4))
 
-       const addTwo = (num1,num2) => (num1+num2)
+    //    const addTwo = (num1,num2) => (num1+num2)
 
-       console.log(addTwo(5,9));
+    //    console.log(addTwo(5,9));
        
+// immediate invoked function expression 
+
+// (function chai (){
+//     //named IIFE
+//     console.log(`DB connected Two `)
+// }) ();
+
+// () ()
+
+// ((name)=> console.log(`DB connected Two ${name}`)) ('raj')
+
+
