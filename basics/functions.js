@@ -19,7 +19,7 @@
 
 // arrow function 
 
-    //     const addTwo = (nuim1,num2) => {
+    //     const addTwo = (num1,num2) => {
     //         return num1 + num2
     //     }
 
