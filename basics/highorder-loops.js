@@ -67,11 +67,13 @@ const programming= ["js","rb","py","java"]
 // programming.forEach(function  (item) {
 //     console.log(item);
 
+// }) 
+
+// programming.forEach((item) =>{
+//     console.log(item);
 // })
 
-programming.forEach((item) =>{
-    console.log(item);
-})
+finish
 
 
 
